@@ -1,0 +1,15 @@
+{
+  "name": "awesome-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Awesome theme with lively colors",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/OlgaTorok/awesome-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
